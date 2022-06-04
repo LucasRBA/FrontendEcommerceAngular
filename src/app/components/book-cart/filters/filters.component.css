@@ -1,0 +1,17 @@
+#filtrarButton {
+     margin-top: 10%;
+}
+
+#to{
+     margin-top:5% ;
+}
+
+.card{
+     background-color:rgb(71, 70, 70);
+     color:azure;
+}
+
+.form-control{
+     background-color: rgb(55, 55, 55);
+     color: aliceblue;
+}
